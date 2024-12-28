@@ -202,7 +202,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Suppport Page pop up view
 
-![Support.png](https://github.com/Dhyanesh-Khakharodiya/Business-Insights-360/blob/87182d95c19fe567ca1d617e9114306d3254453b/Resources/Support.png)
+![Support.png](https://github.com/Dhyanesh-Khakharodiya/Business-Insights-360/blob/2f38f89e160627e2d78730708c18cad3b5c88f82/Resources/Support.png)
 
 you can find the full report file here : [Report]()
 
