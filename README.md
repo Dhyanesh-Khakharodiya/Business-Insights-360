@@ -151,10 +151,10 @@ Fact table : It will have the data about the transactions
 
 - Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
 - Poor data modeling affects the over all performance of the report.
-- Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
-- In this project, we have followed Snowfall data modeling method.
 
-<img src="" class="center">
+- In this project, we have followed Snowflake schema data modeling method.
+
+<img src="https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Model.png" class="center">
 
 ### Dashboard designing
 
@@ -175,34 +175,34 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Home Page
 
-![Home](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif)
+![Home](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Home.png)
 
 ## Finance View
 
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
+![Finace.png](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finance.png)
 ## Sales View
 
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
+![Sales.png](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.png)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
+![Marketing.png](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.png)
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+![SupplyChain.png](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/SupplyChain.png)
 
 ## Executive View
 
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
+![Executive.png](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.png)
 
 ## Info Page pop up view
 
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
+![Information.png](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Information.png)
 
 ## Suppport Page pop up view
 
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
+![Support.png](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Support.png)
 
 you can find the full report file here : [Report]()
 
