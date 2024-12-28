@@ -204,7 +204,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ![Support.png](https://github.com/Dhyanesh-Khakharodiya/Business-Insights-360/blob/2f38f89e160627e2d78730708c18cad3b5c88f82/Resources/Support.png)
 
-you can find the full report file here : [Report]()
+you can find the full report file here : [Report](https://app.powerbi.com/view?r=eyJrIjoiNjYzOTkxN2EtMDAyZS00OTE5LThjYTUtYWIzODAyMmY0OTlmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## Project Outcome
