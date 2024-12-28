@@ -154,7 +154,7 @@ Fact table : It will have the data about the transactions
 
 - In this project, we have followed Snowflake schema data modeling method.
 
-<img src="https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Model.png" class="center">
+<img src="https://github.com/Dhyanesh-Khakharodiya/Business-Insights-360/blob/87182d95c19fe567ca1d617e9114306d3254453b/Resources/Model.png" class="center">
 
 ### Dashboard designing
 
@@ -175,34 +175,34 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Home Page
 
-![Home](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Home.png)
+![Home](https://github.com/Dhyanesh-Khakharodiya/Business-Insights-360/blob/87182d95c19fe567ca1d617e9114306d3254453b/Resources/Home.png)
 
 ## Finance View
 
-![Finace.png](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finance.png)
+![Finace.png](https://github.com/Dhyanesh-Khakharodiya/Business-Insights-360/blob/87182d95c19fe567ca1d617e9114306d3254453b/Resources/Finance.png)
 ## Sales View
 
-![Sales.png](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.png)
+![Sales.png](https://github.com/Dhyanesh-Khakharodiya/Business-Insights-360/blob/87182d95c19fe567ca1d617e9114306d3254453b/Resources/Sales.png)
 
 ## Marketing View
 
-![Marketing.png](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.png)
+![Marketing.png](https://github.com/Dhyanesh-Khakharodiya/Business-Insights-360/blob/87182d95c19fe567ca1d617e9114306d3254453b/Resources/Marketing.png)
 
 ## Supply chain View
 
-![SupplyChain.png](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/SupplyChain.png)
+![SupplyChain.png](https://github.com/Dhyanesh-Khakharodiya/Business-Insights-360/blob/87182d95c19fe567ca1d617e9114306d3254453b/Resources/SupplyChain.png)
 
 ## Executive View
 
-![Executive.png](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.png)
+![Executive.png](https://github.com/Dhyanesh-Khakharodiya/Business-Insights-360/blob/87182d95c19fe567ca1d617e9114306d3254453b/Resources/Executive.png)
 
 ## Info Page pop up view
 
-![Information.png](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Information.png)
+![Information.png](https://github.com/Dhyanesh-Khakharodiya/Business-Insights-360/blob/87182d95c19fe567ca1d617e9114306d3254453b/Resources/Information.png)
 
 ## Suppport Page pop up view
 
-![Support.png](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Support.png)
+![Support.png](https://github.com/Dhyanesh-Khakharodiya/Business-Insights-360/blob/87182d95c19fe567ca1d617e9114306d3254453b/Resources/Support.png)
 
 you can find the full report file here : [Report]()
 
